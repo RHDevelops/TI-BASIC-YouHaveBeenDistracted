@@ -12,7 +12,7 @@ Getting it on your calculator:
 3. Connect the calculator to the computer and send DISTSRC.8xp and AXE.8xk to the calculator. Disconnect the calculator and close the program when it's done sending.
 
 Compiling:
-4. The default amount of times it loops is 10. If you would like to change the amount of times it loops, open the programs menu and edit DISTSRC. Then change the variable I to your desired loop amount.
+4. The default amount of times it loops is 10. If you would like to change the amount of times it loops, open the programs menu and edit DISTSRC. Then change the variable I to your desired loop amount. WARNING: Do not make it an obscene amount of times, as there is no exit condition. In plain English, once you run the program, you are under the control of the distraction wizard!
 5. Go to the Apps menu and open Axe. Select Compile.
 6. Select DISTSRC, make sure it compiles with "No Shell" (use left/right keys if it isn't selected), and wait for it to compile.
 
